@@ -1,6 +1,6 @@
 # Machine-Learning-Specialization
 
-Machine Learning Specialization offered by Deeplearning.ai, instructed by Luis Serrano on Coursera. This specialization consist of three courses, such as Linear Algebra, Calculus, and Probability & Statistics. This include all my assignments from three courses.
+Machine Learning Specialization offered by Deeplearning.ai on Coursera. This specialization consist of three courses, such as Linear Algebra, Calculus, and Probability & Statistics. This include all my assignments from three courses.
 
 ## Course 1: Supervised Machine Learning Regression and Classification
 
